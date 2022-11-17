@@ -1,0 +1,5 @@
+C:\Users\azerh\Desktop\C# Html\Api\Api, Crud, Search\Api-Crud-Search\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\azerh\Desktop\C# Html\Api\Api, Crud, Search\Api-Crud-Search\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azerh\Desktop\C# Html\Api\Api, Crud, Search\Api-Crud-Search\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\azerh\Desktop\C# Html\Api\Api, Crud, Search\Api-Crud-Search\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\azerh\Desktop\C# Html\Api\Api, Crud, Search\Api-Crud-Search\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
